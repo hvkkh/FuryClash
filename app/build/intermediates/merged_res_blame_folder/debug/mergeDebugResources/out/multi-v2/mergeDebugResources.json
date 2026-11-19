@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.furyclash.game.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\practice\\AI Rayu\\3D Fighting Games\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "6,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "311,55",
+                        "endLines": "6,5",
+                        "endColumns": "39,12",
+                        "endOffsets": "346,306"
+                    },
+                    "to": {
+                        "startLines": "2,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,143",
+                        "endLines": "2,7",
+                        "endColumns": "39,12",
+                        "endOffsets": "90,394"
+                    }
+                },
+                {
+                    "source": "D:\\practice\\AI Rayu\\3D Fighting Games\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "47",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "95",
+                        "endColumns": "47",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

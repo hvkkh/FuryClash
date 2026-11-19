@@ -1,0 +1,13 @@
+{
+  "name": "fury-clash-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-dependency WebSocket room relay for Fury Clash online multiplayer",
+  "main": "relay.js",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

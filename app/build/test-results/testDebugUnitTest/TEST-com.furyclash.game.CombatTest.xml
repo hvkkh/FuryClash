@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.furyclash.game.CombatTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2026-11-19T11:22:54" hostname="RYUSEISHIDOU" time="0.191">
+  <properties/>
+  <testcase name="ultimateDealsMassiveDamage" classname="com.furyclash.game.CombatTest" time="0.121"/>
+  <testcase name="defeatedFighterCannotBeSwitchedBackIn" classname="com.furyclash.game.CombatTest" time="0.013"/>
+  <testcase name="lethalHitKOsAndEmitsEvent" classname="com.furyclash.game.CombatTest" time="0.002"/>
+  <testcase name="punchLandsAndDealsDamage" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="blockReducesDamageToChip" classname="com.furyclash.game.CombatTest" time="0.002"/>
+  <testcase name="jumpAttackBeatsCrouchBlock" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="whiffedPunchDealsNoDamage" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="teamWipeWinsRoundAndAdvances" classname="com.furyclash.game.CombatTest" time="0.007"/>
+  <testcase name="timeoutGoesToHealthierTeam" classname="com.furyclash.game.CombatTest" time="0.003"/>
+  <testcase name="buffSkillAppliesShield" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="dashSkillMovesAndHits" classname="com.furyclash.game.CombatTest" time="0.004"/>
+  <testcase name="freezeProjectileFreezes" classname="com.furyclash.game.CombatTest" time="0.003"/>
+  <testcase name="projectileTravelsAndHits" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="firstToThreeRoundsWinsMatch" classname="com.furyclash.game.CombatTest" time="0.015"/>
+  <testcase name="perfectParryStaggersAttacker" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="crouchBlockStopsSweep" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="comboDamageScalesDown" classname="com.furyclash.game.CombatTest" time="0.006"/>
+  <testcase name="manualSwitchChangesActiveFighter" classname="com.furyclash.game.CombatTest" time="0.002"/>
+  <testcase name="punchChainComboScalesAndCounts" classname="com.furyclash.game.CombatTest" time="0.001"/>
+  <testcase name="joystickRunClosesDistance" classname="com.furyclash.game.CombatTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Ryusei Shidou/.gradle/wrapper/dists/gradle-8.9-bin/**)",
+      "Read(//c/Users/Ryusei Shidou/.gradle/caches/modules-2/files-2.1/com.android.tools.build/**)",
+      "Read(//c/Users/Ryusei Shidou/.gradle/caches/modules-2/files-2.1/**)",
+      "Read(//c/Users/Ryusei Shidou/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2/**)",
+      "Bash(/c/Andriod/SDK/platform-tools/adb devices:*)",
+      "Read(//c/Andriod/SDK/system-images/**)",
+      "Bash(curl -s -m 6 -o /dev/null -w %{http_code} https://dl.google.com/android/maven2/master-index.xml)"
+    ]
+  }
+}

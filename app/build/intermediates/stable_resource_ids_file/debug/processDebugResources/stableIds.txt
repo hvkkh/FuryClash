@@ -1,0 +1,6 @@
+com.furyclash.game:style/Theme.FuryClash = 0x7f050000
+com.furyclash.game:drawable/ic_launcher_fg = 0x7f020000
+com.furyclash.game:mipmap/ic_launcher_round = 0x7f030001
+com.furyclash.game:mipmap/ic_launcher = 0x7f030000
+com.furyclash.game:string/app_name = 0x7f040000
+com.furyclash.game:color/ic_bg = 0x7f010000
